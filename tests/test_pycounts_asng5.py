@@ -1,4 +1,4 @@
-from pycounts_asng5.pycounts_asng5 import count_words
+from pycounts_asng5.pycounts_asng5 import count_words # type: ignore
 from collections import Counter
 
 def test_count_words():
